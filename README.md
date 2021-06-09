@@ -1,3 +1,11 @@
+# Monthly grocery planning app with user authentication: [(Live App)](https://monthlygrocery-app.netlify.app/#/home)
+
+
+
+![2021-06-09 15_52_09-Monthly Grocery List App](https://user-images.githubusercontent.com/39941574/121338781-75b54700-c93b-11eb-951b-9f579595e451.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
