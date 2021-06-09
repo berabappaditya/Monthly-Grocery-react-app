@@ -79,10 +79,10 @@ height: calc(100vh);
 
 #one:hover {
   box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.5);
-  /* -webkit-transform: scale(1.001);
-  -ms-transform: scale(1.001); */
-  /* transform: scale(1.001); */
-  opacity: 95%;
+  -webkit-transform: scale(1.001);
+  -ms-transform: scale(1.001); 
+   transform: scale(1.001);
+
 }
 
 .purchased {
